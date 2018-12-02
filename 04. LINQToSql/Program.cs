@@ -31,7 +31,11 @@ namespace _04.LINQToSql
 
             Console.WriteLine("Success");*/
 
+
             Console.WriteLine("Hello world");
+
+            Console.Write("Input text: ");
+            string str = Console.ReadLine();
 
             Console.Read();
         }
