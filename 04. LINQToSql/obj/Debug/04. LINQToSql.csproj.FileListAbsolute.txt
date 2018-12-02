@@ -1,0 +1,7 @@
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\bin\Debug\_04.LINQToSql.exe.config
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\bin\Debug\_04.LINQToSql.exe
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\bin\Debug\_04.LINQToSql.pdb
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\obj\Debug\04. LINQToSql.csprojAssemblyReference.cache
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\obj\Debug\04. LINQToSql.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\obj\Debug\_04.LINQToSql.exe
+C:\Users\us\Desktop\ПП 17в-2\ADO.NET\04. LINQToSql\obj\Debug\_04.LINQToSql.pdb
